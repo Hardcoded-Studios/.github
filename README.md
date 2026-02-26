@@ -1,57 +1,66 @@
-# 👋 Bienvenido a Hardcoded Studios
+# 🛠️ Hardcoded Studios
+
+<img width="1024" height="559" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/683eba4c-1339-41b3-b127-0facbbe6b2ff" />
+
+
+> **"Uncompromising Logic. High-Performance Gameplay."**
+
+---
+
+## 🚀 Sobre Nosotros
+
+**Hardcoded Studios** es un colectivo de desarrollo independiente dedicado a la creación de experiencias digitales donde la precisión técnica y las mecánicas sólidas son la prioridad. 
+
+Nos alejamos de las soluciones genéricas. Creemos en el desarrollo nativo, la optimización y en escribir código que perdure. Si algo merece ser construido, merece ser **hardcoded**.
+
+---
+
+## 🛠️ Nuestra Filosofía de Ingeniería
+
+Nuestros proyectos se rigen por tres pilares fundamentales que aplicamos a cada línea de código y cada diseño de nivel:
+
+1.  **Eficiencia en el Core:** Buscamos el máximo rendimiento. Cada ciclo de CPU cuenta.
+2.  **Mecánicas Deterministas:** Diseñamos sistemas donde la habilidad y la lógica del jugador son los únicos factores decisivos.
+3.  **Arquitectura Escalable:** Desarrollamos herramientas y motores internos pensados para crecer y adaptarse a cualquier desafío técnico.
+
+---
+
+## 📂 Proyectos Actuales
+
+### 🃏 Project: Deck-PvP (Working Title)
+Nuestro proyecto insignia actual es un ecosistema de competición basado en cartas que fusiona la estrategia clásica del **Blackjack** con un sistema profundo de **Perks y combate PvP**. 
+* **Estado:** En desarrollo activo.
+* **Tecnologías:** [Aquí puedes poner tu stack, ej: Python, Godot, C++, etc.]
+* **Enfoque:** Equilibrio competitivo y jugabilidad de alta fidelidad.
+
+### 🔬 R&D (Investigación y Desarrollo)
+Constantemente exploramos nuevas fronteras en:
+* Sistemas de red de baja latencia para juegos competitivos.
+* Generación procedimental de entornos.
+* Optimización de motores gráficos.
+
+---
+
+## 💻 Stack Tecnológico
+
+Nuestra caja de herramientas varía según el proyecto, pero siempre priorizamos la robustez:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+---
+
+## 🤝 Colaboraciones
+
+Estamos siempre abiertos a colaborar con ingenieros, artistas y diseñadores que compartan nuestra obsesión por el detalle y la calidad técnica. 
+
+* **Reporte de errores:** Si encuentras un fallo en nuestra lógica, abre una `Issue`.
+* **Propuestas:** Valoramos las ideas que desafíen los límites de lo convencional.
+
+---
 
 <p align="center">
-  <img src="RUTA_A_TU_LOGO.png" alt="Hardcoded Studios Logo" width="300px">
+  <b>Hardcoded Studios // 2026</b><br>
+  <i>"Efficiency is our only constraint."</i>
 </p>
-
-> *"Donde la lógica no perdona y las cartas siempre están marcadas... por el trauma."*
-
----
-
-## 🧐 Quiénes Somos
-
-Somos un colectivo de desarrolladores indie forjados en el fuego de la **programación de bajo nivel** y el **sufrimiento académico**. Nuestra misión es simple: crear juegos desafiantes, técnicos y con una pizca de sátira sobre el sistema educativo.
-
-Nacimos de un "código legado hostil" y la "asistencia obligatoria", decididos a convertir las pesadillas de 1º de carrera en mecánicas de juego adictivas.
-
----
-
-## 🎲 Nuestra Filosofía de Desarrollo
-
-En Hardcoded Studios, no programamos para que sea fácil. Programamos porque es lo único que nos separa del caos.
-
-| Principio | Nuestra Interpretación |
-| :--- | :--- |
-| **`StrictMode`** | No aceptamos errores. Ni en el código, ni en la mesa de Blackjack. |
-| **`LegacySupport`** | Honramos los clásicos (cartas), pero los parcheamos con violencia (PvP). |
-| **`HardFail`** | Si te pasas de 21, no hay curva de aprendizaje; estás muerto. |
-| **`LogicBust`** | La estrategia es ley. La suerte es para los que no saben optimizar. |
-
----
-
-## 🛠 En Qué Estamos Trabajando (The Flagship Project)
-
-Nuestro proyecto actual es un **Juego de Blackjack PvP con Mecánicas de Perks**. Imagina el clásico 21, pero donde un As en la manga es una habilidad activa que puede detonar el mazo de tu rival.
-
-**Características Principales:**
-
-1.  ⚔️ **PvP Síncrono:** Combate directo donde cada decisión cuenta.
-2.  🎖️ **Sistema de Perks:** Personaliza tu estilo de juego con ventajas que alteran las reglas básicas del Blackjack.
-3.  🍎 **Homenaje Satírico:** Basado en la figura de nuestra inolvidable (y odiada) profesora de 1º, que nos enseñó que la vida, como su asignatura, es un juego de altas apuestas con reglas arbitrarias.
-
----
-
-## 👥 Contribuir y Contacto
-
-Si tienes un mazo de cartas, conocimientos de Python/Godot (o C++, si eres masoquista) y una cuenta pendiente con el sistema académico, ¡queremos hablar contigo!
-
-* 📥 Revisa nuestros repositorios y abre una Issue si encuentras un bug (o un "feature" que la profe no aprobó).
-* 📧 Contáctanos por telepatía o a través de nuestros perfiles individuales.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/HardcodedStudios?style=social" alt="Follow Us">
-</p>
-
-© Hardcoded Studios 2024. Todos los derechos reservados... o eso nos dijeron en clase.

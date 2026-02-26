@@ -1,7 +1,7 @@
 # 🛠️ Hardcoded Studios
-
-<img width="1024" height="559" alt="Adobe Express - file" src="https://github.com/user-attachments/assets/683eba4c-1339-41b3-b127-0facbbe6b2ff" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/683eba4c-1339-41b3-b127-0facbbe6b2ff" alt="Hardcoded Studios Logo" width="250px"/>
+</p>
 
 > **"Uncompromising Logic. High-Performance Gameplay."**
 

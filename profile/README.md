@@ -1,4 +1,9 @@
-# <img width="175" height="175" alt="Harcoded Studios Logo" src="https://github.com/user-attachments/assets/8c2e5bfa-464c-4175-9e1b-bcc38e201343"/> Hardcoded Studios
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/8c2e5bfa-464c-4175-9e1b-bcc38e201343" width="175" height="175" align="left" alt="Harcoded Studios Logo" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=55&color=FFFFFF&center=false&vCenter=true&width=550&height=175&lines=Hardcoded+Studios" alt="Hardcoded Studios" />
+</div>
+<br clear="left" />
 
 **"Si compila, es que el destino así lo quiso."**
 

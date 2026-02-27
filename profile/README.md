@@ -23,7 +23,7 @@ Nuestro proyecto actual es un **Blackjack PvP Evolucionado**. Olvida lo que sabe
 * **Perks & Pasivas:** Construye tu build estratégica antes de entrar a la mesa.
 * **Cartas Especiales:** Efectos que pueden cambiar la partida más rápido que un suspenso injusto en Fundamentos.
 
-> **Nota de lore:** Cualquier parecido de las mecánicas más punitivas o de los jefes finales con ciertas figuras académicas de *Fundamentos de la Programación* de 1º es... puramente intencionado. Hemos volcado algo de ese "trauma" pedagógico en crear un desafío a la altura.
+> **Nota de lore:** Cualquier parecido de las mecánicas más punitivas o de los jefes finales con ciertas figuras académicas de *Fundamentos de la Programación* de 1º es... **puramente** intencionado. Hemos volcado algo de ese "trauma" pedagógico en crear un desafío a la altura.
 
 ---
 

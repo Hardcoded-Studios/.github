@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/683eba4c-1339-41b3-b127-0facbbe6b2ff" width="85" height="85"> Hardcoded Studios
+# <img width="75" height="75" alt="Harcoded Studios Logo" src="https://github.com/user-attachments/assets/8c2e5bfa-464c-4175-9e1b-bcc38e201343"/> Hardcoded Studios
 
 **"Si compila, es que el destino así lo quiso."**
 

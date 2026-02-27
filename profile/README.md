@@ -15,7 +15,7 @@ Somos dos mentes (a veces una y media, dependiendo de las horas de sueño) dedic
 
 ---
 
-### 🃏 Proyecto Destacado: [Nombre del Juego]
+### 🃏 Proyecto Destacado: PuriGambling
 
 Nuestro proyecto actual es un **Blackjack PvP Evolucionado**. Olvida lo que sabes sobre el 21 tranquilo de los casinos; esto es una guerra de cartas con:
 
